@@ -1,0 +1,16 @@
+#root {
+  text-align: center;
+}
+.read-the-docs {
+  color: #888;
+}
+
+ul {
+  width: 100%;
+  background-color: #cccccc;
+  position: fixed;
+  top: 0;
+  display: flex;
+  list-style: none;
+  gap: 0
+}
